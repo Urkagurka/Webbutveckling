@@ -1,16 +1,52 @@
 body{
-    background-color:rgb(250, 184, 86)
+    background-color:rgb(48, 65, 92)
 
 }
 
 p{
-    color:rgb(101, 255, 217)
+    color:rgb(255, 255, 255)
 }
 
 h1{
     text-align: center;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    text-align: center;
+    border-top-width: 5px;
+    border-top-style: solid;
+    border-top-color:rgb(54, 55, 56, 0.74);
+    background-color:rgb(29, 47, 77);
 }
 
 .altp{
-    text-align: right
+    text-align: right;
+}
+
+.program{
+    text-align: center;
+    background-color:rgb(29, 47, 77)
+}
+
+.tankar{
+    text-align: right;
+    background-color:rgb(29, 47, 77)
+}
+
+a {
+    text-decoration: none;
+}
+
+.burgarkungen{
+    width:1890px;
+    height:150px;
+}
+
+.JAG{
+    border-width: 5px;
+    border-style: solid;
+    border-color:rgba(54, 55, 56, 0.74);
+    background-color:rgb(29, 47, 77);
 }
